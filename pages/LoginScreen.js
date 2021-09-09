@@ -130,7 +130,7 @@ const LoginScreen = ({navigation}) => {
             <Text
               style={styles.registerTextStyle}
               onPress={() => navigation.navigate('RedefinirSenha')}>
-              Esquecei a senha
+              Esqueci a senha
             </Text>
             <Text
               style={styles.registerTextStyle1}
